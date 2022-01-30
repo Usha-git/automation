@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+      <class name="Parameterization.Parameter1">
+        <test-method status="PASS" signature="Cool(java.lang.String)[pri:0, instance:Parameterization.Parameter1@51cdd8a]" name="Cool" duration-ms="2" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaclickacademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cool -->
+        <test-method status="PASS" signature="Dear()[pri:0, instance:Parameterization.Parameter1@51cdd8a]" name="Dear" duration-ms="2" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dear -->
+      </class> <!-- Parameterization.Parameter1 -->
+      <class name="Parameterization.Parameter">
+        <test-method status="PASS" signature="Boat(java.lang.String)[pri:0, instance:Parameterization.Parameter@2a17b7b6]" name="Boat" duration-ms="10" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaclickacademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Boat -->
+        <test-method status="PASS" signature="Cool()[pri:0, instance:Parameterization.Parameter@2a17b7b6]" name="Cool" duration-ms="2" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cool -->
+        <test-method status="PASS" signature="Dear()[pri:0, instance:Parameterization.Parameter@2a17b7b6]" name="Dear" duration-ms="2" started-at="2021-12-27T23:33:44 IST" finished-at="2021-12-27T23:33:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dear -->
+      </class> <!-- Parameterization.Parameter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
